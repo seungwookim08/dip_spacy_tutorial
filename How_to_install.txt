@@ -1,0 +1,11 @@
+https://spacy.io/usage/
+
+If you have anaconda, command is
+conda install -c conda-forge spacy
+
+To donwload English package
+python -m spacy download en
+
+Tables 
+pip install texttable
+pip install PrettyTable
